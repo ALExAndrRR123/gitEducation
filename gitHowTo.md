@@ -25,3 +25,7 @@ git chekout
 ```
 
 # Добавим как добавлять картинки в MD 
+
+
+Это яблоко
+![Яблоко](Variety_Cosmic-Crisp-transparent-658x677-1.webp)
